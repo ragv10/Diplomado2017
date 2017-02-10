@@ -1,2 +1,2 @@
 # Diplomado2017
-Clases OLADE
+Clases OLADE repositorio de Phyton
